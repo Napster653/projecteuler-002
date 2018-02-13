@@ -1,1 +1,0 @@
-# projecteuler-002
